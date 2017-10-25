@@ -34,3 +34,11 @@ When compiling:
 When uploading:
 	- If you get a "unable to connect to bootloader" error, follow 6.3 above
 	- If you get some error that says something about COM1 or any other number, try restarting Arduino and making sure that Tools->Port has a new option when you plug in the minitaur
+	
+NOTE: In terms of installing software, installing anaconda for python, since you need some of the packages.
+
+TESTING: Please test minitaur on the stand before placing it on the ground. Also, be prepared to press off button in case the robot behaves unexpectedly. Make sure that screws on the legs are not loose.
+
+POSSIBLE CAUSES OF MINITAUR NOT TURNING ON:
+1. Disconnection of the switch in the circuit.
+2. Broken USB port.
